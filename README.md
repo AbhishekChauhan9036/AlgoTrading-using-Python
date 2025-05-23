@@ -47,23 +47,32 @@ Welcome to the **Algorithmic Trading** course repository! This course is a part 
 
 ---
 
-## 💻 Folder Structure
+## 📈 Learning Outcomes
+- Understand the structure and strategies of algorithmic trading.
+- Apply technical and quantitative analysis to build trading strategies.
+- Use Python for financial data analysis and real-time trading automation.
+- Explore case studies in AI-driven trading systems.
+- Evaluate and manage risk in automated trading environments.
 
-```bash
-Algorithmic-Trading/
-├── Unit_1_Intro_to_Algo_Trading/
-│   ├── Notes.md
-│   └── HFT_Case_Study.pdf
-├── Unit_2_Python_for_Trading/
-│   ├── pandas_finance.ipynb
-│   ├── strategy_backtest.ipynb
-│   └── api_live_trading_demo.ipynb
-├── Unit_3_Technical_Analysis/
-│   ├── candlestick_analysis.ipynb
-│   ├── volatility_metrics.ipynb
-│   └── strategy_implementation.py
-├── Unit_4_Case_Studies/
-│   ├── ml_prediction_model.ipynb
-│   ├── risk_compliance_notes.pdf
-│   └── stock_price_case_study.ipynb
-└── README.md
+---
+
+## 📎 License
+This course material is for educational purposes under the [MIT License](LICENSE).
+
+---
+
+## 👨‍🏫 Contributors
+- **Course Instructor**: *Your Name*
+- **Institution**: Faculty of Computer Applications, Master of FinTech
+
+---
+
+## 🔗 Related Resources
+- [QuantInsti](https://www.quantinsti.com/)
+- [Investopedia - Algo Trading](https://www.investopedia.com/terms/a/algorithmictrading.asp)
+- [Kite Connect API](https://kite.trade/)
+- [Backtrader Documentation](https://www.backtrader.com/)
+
+---
+
+*Happy Trading & Learning 📉📈*
