@@ -47,23 +47,9 @@ Welcome to the **Algorithmic Trading** course repository! This course is a part 
 
 ---
 
-## 📈 Learning Outcomes
-- Understand the structure and strategies of algorithmic trading.
-- Apply technical and quantitative analysis to build trading strategies.
-- Use Python for financial data analysis and real-time trading automation.
-- Explore case studies in AI-driven trading systems.
-- Evaluate and manage risk in automated trading environments.
-
----
-
-## 📎 License
-This course material is for educational purposes under the [MIT License](LICENSE).
-
----
-
 ## 👨‍🏫 Contributors
-- **Course Instructor**: *Your Name*
-- **Institution**: Faculty of Computer Applications, Master of FinTech
+- **Course Instructor**: *Prof. Abhishek Chauhan*
+- **Institution**: Marwadi University, Faculty of Computer Applications
 
 ---
 
@@ -75,4 +61,4 @@ This course material is for educational purposes under the [MIT License](LICENSE
 
 ---
 
-*Happy Trading & Learning 📉📈*
+*Happy Trading & Learning*
